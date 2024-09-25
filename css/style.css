@@ -1,7 +1,7 @@
-@import "/market-clone/css/reset.css";
-@import "/market-clone/css/header.css";
-@import "/market-clone/css/footer.css";
-@import "/market-clone/css/main.css";
+@import "/css/reset.css";
+@import "/css/header.css";
+@import "/css/footer.css";
+@import "/css/main.css";
 
 :root {
   --button-primary: rgb(254, 111, 15);
